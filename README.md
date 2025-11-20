@@ -6,7 +6,7 @@ The sample code described herein is provided on an "as is" basis, without warran
 
 ForgeRock shall not be liable for any direct, indirect or consequential damages or costs of any type arising out of any action taken by you or others related to the sample code.
 
-## Introduction
+## Introductions
 
 This repository includes sample javascript based tools for managing Identity Cloud configuration in an external repository. The scripts are a starting point for customers who wish to store and manage Identity Cloud configuration in their own repository and automate the export and/or import of this configuration via a CI/CD pipeline or other management framework.
 
